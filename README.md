@@ -25,7 +25,7 @@ Welcome to our custom casino software development services! We specialize in cre
 ### Contact Us:
 - 📱 **Telegram:** [@athenian](https://t.me/athenian)
 - 📱 **Discord:** [discord.gg/cryptocasino](https://discord.gg/cryptocasino)
-- 🌐 **Website:** [buycasinoscripts.com](https://buycasinoscripts.com)
+- 🌐 **Website:** [buycasinoscript.com](https://buycasinoscript.com)
 
 ### Important Notice:
 ‼️ **PROOF OF FUNDS IS REQUIRED** ‼️
